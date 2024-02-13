@@ -1,3 +1,7 @@
+# UMD MARKETPLACE
+
+UMD Marketplace is an online platform tailored for the University of Maryland's students and faculty, facilitating the buying and selling of products within the campus community. Leveraging JavaScript, HTML, and CSS, this web application provides a seamless user experience, enabling users to browse, list, and purchase items with ease. Whether it's textbooks, electronics, or campus merchandise, UMD Marketplace serves as a centralized hub for transactions, fostering a vibrant marketplace within the university ecosystem. Explore the codebase to delve into the intricacies of front-end development and the implementation of intuitive user interfaces.
+
 # Run The App Locally
 
 ## Prerequisites
